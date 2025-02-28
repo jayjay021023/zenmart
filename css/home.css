@@ -485,7 +485,7 @@ text-align: center;
     box-sizing: border-box;
 }
 
-.product_contand_box .product_title{
+.product_contend_box .product_title{
     font-family: 'jost';
     font-style: normal;
     font-weight: 400;
@@ -496,7 +496,7 @@ text-align: center;
 
 }
 
-.product_contand_box .product_desc{
+.product_contend_box .product_desc{
 margin-top: 7px;
 height: 56px;
 font-family: 'jost';
